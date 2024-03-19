@@ -1,8 +1,9 @@
 import React from 'react'
+import SearchPage from './SearchPage'
 
 const App = () => {
   return (
-    <div>App</div>
+    <SearchPage/>
   )
 }
 
